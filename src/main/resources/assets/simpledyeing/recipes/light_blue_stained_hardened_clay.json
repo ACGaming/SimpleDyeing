@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "stained_hardened_clay",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "type": "forge:ore_dict",
+      "ore": "terracotta"
+    },
+    "X": {
+      "item": "minecraft:dye",
+      "data": 12
+    }
+  },
+  "result": {
+    "item": "minecraft:stained_hardened_clay",
+    "data": 3,
+    "count": 8
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "stained_glass",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "type": "forge:ore_dict",
+      "ore": "blockGlassColored"
+    },
+    "X": {
+      "item": "minecraft:dye",
+      "data": 10
+    }
+  },
+  "result": {
+    "item": "minecraft:stained_glass",
+    "data": 5,
+    "count": 8
+  }
+}

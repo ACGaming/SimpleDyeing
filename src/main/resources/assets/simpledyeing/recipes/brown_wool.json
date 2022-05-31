@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wool",
+  "ingredients": [
+    {
+      "item": "minecraft:dye",
+      "data": 3
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "wool"
+    }
+  ],
+  "result": {
+    "item": "minecraft:wool",
+    "data": 12
+  }
+}

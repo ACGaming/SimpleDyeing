@@ -1,0 +1,12 @@
+[
+  {
+    "modid": "simpledyeing",
+    "name": "Simple Dyeing",
+    "description": "Simplifies dyeing tasks for wool, carpets and beds.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "authorList": ["ACGaming"],
+    "credits": "Serilum for Wool Tweaks"
+  }
+]
