@@ -1,3 +1,3 @@
 # Simple Dyeing
 
-Simplifies dyeing tasks for wool, carpets and beds.
+Simplifies dyeing tasks for wool, carpets, beds and more.
